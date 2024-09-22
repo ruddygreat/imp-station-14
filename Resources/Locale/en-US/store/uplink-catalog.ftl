@@ -265,6 +265,9 @@ uplink-power-sink-desc = Drains immense amounts of electricity from the grid, th
 uplink-carp-dehydrated-name = Dehydrated Space Carp
 uplink-carp-dehydrated-desc = Looks like a plush toy carp, but just add water and it becomes a real-life space carp!
 
+uplink-apocarplypse-name = Apocarplypse Bundle
+uplink-apocarplypse-desc = Unleash a fish-based reckoning on the NT scum! Contains 21 dehydrated carp and 1 water bottle. One per operative.
+
 # Job Specific
 uplink-gatfruit-seeds-name = Packet Of Gatfruit Seeds
 uplink-gatfruit-seeds-desc = And who says guns don't grow on trees?

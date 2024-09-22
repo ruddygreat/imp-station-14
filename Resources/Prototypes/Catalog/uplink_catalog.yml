@@ -1203,6 +1203,23 @@
       - NukeOpsUplink
 
 - type: listing
+  id: UplinkApocarplypse
+  name: uplink-apocarplypse-name
+  description: uplink-apocarplypse-desc
+  productEntity: ClothingBackpackDuffelSyndicateApocarplypse
+  cost:
+    Telecrystal: 15
+  categories:
+  - UplinkAllies
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - NukeOpsUplink
+  - !type:ListingLimitedStockCondition
+    stock: 1
+
+- type: listing
   id: UplinkMobCatMicrobomb
   name: uplink-mobcat-microbomb-name
   description: uplink-mobcat-microbomb-desc
