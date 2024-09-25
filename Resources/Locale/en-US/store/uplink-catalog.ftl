@@ -265,8 +265,17 @@ uplink-power-sink-desc = Drains immense amounts of electricity from the grid, th
 uplink-carp-dehydrated-name = Dehydrated Space Carp
 uplink-carp-dehydrated-desc = Looks like a plush toy carp, but just add water and it becomes a real-life space carp!
 
-uplink-apocarplypse-name = Apocarplypse Bundle
-uplink-apocarplypse-desc = Unleash a fish-based reckoning on the NT scum! Contains 21 dehydrated carp and 1 water bottle. One per operative.
+uplink-apocarplypsebeacon-name = Apocarplypse Beacon
+uplink-apocarplypsebeacon-desc = Unleash a fish-based reckoning on the NT scum! Carp suit recommended, but not included.
+
+# Not entirely sure if these should be here but idrd where else to put them
+
+uplink-apocarplypse-unfold-success = "Get ready for an aquatic altercation!"
+uplink-apocarplypse-unfold-space = "you're too close to space!"
+uplink-apocarplypse-unfold-otherbeacon = "you're too close to another beacon!"
+uplink-apocarplypse-unfold-interference = "there's too much interference!"
+uplink-apocarplypse-unfold-nogrid = "you're not on a grid!"
+uplink-apocarplypse-refold = "the carp's out of the bag now, no turning back!"
 
 # Job Specific
 uplink-gatfruit-seeds-name = Packet Of Gatfruit Seeds

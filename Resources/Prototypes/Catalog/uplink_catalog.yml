@@ -1204,11 +1204,11 @@
 
 - type: listing
   id: UplinkApocarplypse
-  name: uplink-apocarplypse-name
-  description: uplink-apocarplypse-desc
-  productEntity: ClothingBackpackDuffelSyndicateApocarplypse
+  name: uplink-apocarplypsebeacon-name
+  description: uplink-apocarplypsebeacon-desc
+  productEntity: ApocarplypseBeacon
   cost:
-    Telecrystal: 15
+    Telecrystal: 20
   categories:
   - UplinkAllies
   conditions:

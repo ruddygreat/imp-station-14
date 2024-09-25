@@ -157,19 +157,6 @@
 
 - type: entity
   parent: ClothingBackpackDuffelSyndicateBundle
-  id: ClothingBackpackDuffelSyndicateApocarplypse
-  name: apocarplypse bundle
-  description: Unleash a fish-based reckoning on the NT scum!
-  components:
-    - type: StorageFill
-      contents:
-      - id: DehydratedSpaceCarp
-        amount: 21
-      - id: DrinkWaterBottleFull
-        amount: 1
-
-- type: entity
-  parent: ClothingBackpackDuffelSyndicateBundle
   id: ClothingBackpackDuffelSyndicatePyjamaBundle
   name: syndicate pyjama duffel bag
   description: Contains 3 pairs of syndicate pyjamas and 3 plushies for the ultimate sleepover.
